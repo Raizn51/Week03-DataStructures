@@ -1,4 +1,4 @@
-package com.tit.day01linkedlist.singlylinkedlist.StudentRecordManagement;
+package com.tit.day01linkedlist.singlylinkedlist.studentrecordmanagement;
 
 // Creating a class SinglyLinkedList to represent the singly linked list structure for student records
 class SinglyLinkedList

@@ -1,4 +1,4 @@
-package com.tit.day01linkedlist.singlylinkedlist.StudentRecordManagement;
+package com.tit.day01linkedlist.singlylinkedlist.studentrecordmanagement;
 
 /*
 Problem Statement 1: Student Record Management System using Singly Linked List
