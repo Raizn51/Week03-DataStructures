@@ -1,4 +1,4 @@
-package com.tit.day01linkedlist.singlylinkedlist;
+package com.tit.day01linkedlist.singlylinkedlist.inventorymanagementsystem;
 
 // Creating a class SinglyLinkedList to represent the singly linked list structure for inventory records
 class SinglyLinkedList {
