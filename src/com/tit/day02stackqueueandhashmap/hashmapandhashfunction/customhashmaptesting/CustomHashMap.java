@@ -1,4 +1,4 @@
-package com.tit.day02stackqueueandhashmap.customhashmaptesting;
+package com.tit.day02stackqueueandhashmap.hashmapandhashfunction.customhashmaptesting;
 
 import java.util.LinkedList;
 

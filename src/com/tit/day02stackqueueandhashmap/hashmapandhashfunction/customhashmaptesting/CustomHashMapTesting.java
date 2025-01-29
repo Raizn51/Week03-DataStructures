@@ -1,6 +1,4 @@
-package com.tit.day02stackqueueandhashmap.customhashmaptesting;
-
-import java.util.LinkedList;
+package com.tit.day02stackqueueandhashmap.hashmapandhashfunction.customhashmaptesting;
 
 /**
  * Problem: Design and implement a basic hashmap class with operations for insertion, deletion, and retrieval.
