@@ -16,5 +16,6 @@ public class TestingReadAFile
         raf.readAFileLineByLine(filePath);
         // Printing a message to indicate the function is working as expected
         System.out.println("readAFileLineByLine function working like expected");
+
     }
 }
